@@ -1,2 +1,4 @@
 # Projeto-Genesis
- Primerio repositório 
+ Primerio repositório do curso GhitHub
+
+ repositório criado durante uma aula 
